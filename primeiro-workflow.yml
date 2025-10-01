@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main # Ou 'master', dependendo do nome da sua branch principal
+      - feature/intro-devops # branch criada para codar os testes antes de levar a branch main
 
 jobs:
   build:
