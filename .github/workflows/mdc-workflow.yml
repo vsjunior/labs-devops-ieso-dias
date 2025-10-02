@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main # Ou 'master', dependendo do nome da sua branch principal
-      - feature/intro-devops # branch criada para codar os testes antes de levar a branch main
 
 jobs:
   build:
@@ -15,4 +14,4 @@ jobs:
         uses: actions/checkout@v2 # Action para clonar o repositório
 
       - name: Mostrar Mensagem
-        run: echo "Olá, testando a esteira pipeline sem passar pelo GitHub Actions!" # Comando a ser executado
+        run: echo "Olá, MDC, GitHub Actions!" # Comando a ser executado
