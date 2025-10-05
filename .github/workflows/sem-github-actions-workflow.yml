@@ -1,4 +1,4 @@
-name: Mdc Workflow
+name: Workflow sem github actions
 
 on:
   push:
