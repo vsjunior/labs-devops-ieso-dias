@@ -1,4 +1,4 @@
-name: Mdc Workflow
+name: Meu primeiro Workflow
 
 on:
   push:
