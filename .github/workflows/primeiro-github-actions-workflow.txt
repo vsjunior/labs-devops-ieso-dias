@@ -1,4 +1,4 @@
-name: workflow com github actions
+name: primeiro workflow com github actions
 
 on:
   push:
