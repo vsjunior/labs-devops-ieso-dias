@@ -1,7 +1,4 @@
-# `MD041` - Projeto Exemplos com Git
-
-Tags: `headings`
-
+# - Projeto Exemplos com Git
 
 Tecnologias usadas
 
@@ -10,3 +7,5 @@ Tecnologias usadas
 - Markdown
 
 Estrutura do Projeto
+
+Adicionando conteúdo remotamente
